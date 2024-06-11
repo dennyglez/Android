@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429319722968",
+    "project_id": "flutter-db-16253",
+    "storage_bucket": "flutter-db-16253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429319722968:android:e5a2a05203ed6decf4c4ad",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc4ersfclOp2WGycv3Ig4SXe5ObhQdJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
